@@ -63,6 +63,4 @@ the outcome to integer IPC phases.
 
 ## License
 
-Code license: **not yet chosen** -- add a LICENSE file before the first public release
-(MIT and Apache-2.0 are the common permissive choices for academic code; GitHub can add
-one at repo-creation time). Data: see the licenses of the original sources linked above.
+Code: MIT (see LICENSE). Data: see the licenses of the original sources linked above.
